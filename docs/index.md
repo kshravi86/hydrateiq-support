@@ -3,7 +3,7 @@
 Welcome to the HydrateIQ support page.
 
 ## Contact
-- Email: venki18+support@gmail.com (replace with your preferred address)
+- Email: kshravi86@gmail.com (replace with your preferred address)
 - GitHub Issues: https://github.com/kshravi86/hydrateiq-support/issues
 
 ## FAQ
