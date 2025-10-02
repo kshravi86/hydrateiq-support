@@ -25,9 +25,6 @@ All data is stored on-device. No account, no tracking, no cloud sync.
 **How do I reset data?**  
 Use Settings → Reset (if available) or delete and reinstall the app.
 
-## Troubleshooting
-- Ensure notifications are enabled in iOS Settings if you’re not seeing reminders.
-- Update to the latest iOS version for best compatibility.
 
 ## Links
 - Privacy Policy: https://kshravi86.github.io/hydrateiq-privacy/
